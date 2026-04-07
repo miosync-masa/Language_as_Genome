@@ -1,4 +1,4 @@
-# Language as Genome — Analysis Code
+#  Beyond the Family Tree — Analysis Code
 
 **Paper:** *Beyond the Family Tree: Historical Corridors Organize Lexical Borrowing Networks*
 
